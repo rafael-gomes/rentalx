@@ -105,3 +105,6 @@ dist
 
 # Ignore .vscode
 .vscode
+
+# Ignore tmp folder
+tmp
